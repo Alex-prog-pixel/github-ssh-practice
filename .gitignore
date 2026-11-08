@@ -1,0 +1,8 @@
+# Private SSH keys must not be committed.
+id_ed25519
+id_ecdsa
+id_rsa
+id_dsa
+*.pem
+*.key
+.ssh/
